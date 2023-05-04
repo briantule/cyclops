@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+"rpi.gpio" = "*"
+matplotlib = "*"
+adafruit-circuitpython-adxl34x = "*"
+ffmpeg-python = "*"
+opencv-python = "==4.6.0.66"
+pandas = "*"
+imutils = "*"
+colorama = "*"
+adafruit-circuitpython-neopixel = "*"
+adafruit-blinka = "*"
+install = "*"
+rpi-ws281x = "*"
+wget = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

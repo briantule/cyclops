@@ -1,0 +1,1 @@
+Check the [wiki](https://github.com/amosyu2000/cyclops/wiki) for installation instructions.
